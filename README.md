@@ -1,4 +1,4 @@
-## RUKA BOT
+## ELAINA BOT
 Virtual GirlFriend Iky
 
 

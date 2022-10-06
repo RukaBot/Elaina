@@ -15,7 +15,7 @@ const info = require("./lib/info.js");
 /////////////////
 const BotName = 'ELAINA BOT'; 
 const instagram = 'https://instagram.com/sndrzqy_'; 
-const telegram = 'ikiiii2906'; 
+const telegram = '@kakkoimakun'; 
 const kapanbotaktif = 'Tergantung Server'; 
 const youtube = 'Unknown People';
 //const grupch1 = 'https://chat.whatsapp.com/JKhKJDkEDpg4srefqACH1y'; 
